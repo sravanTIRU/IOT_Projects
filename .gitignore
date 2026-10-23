@@ -1,0 +1,16 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+**/secrets.h
+**/*secret*
+**/*credentials*
+
+# PlatformIO build output
+.pio/
+
+# IDE settings
+.vscode/
+
+# Python cache, if needed for future projects
+__pycache__/
